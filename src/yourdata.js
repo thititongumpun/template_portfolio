@@ -1,12 +1,10 @@
 // Skills Icons
-import htmlIcon from "./images/html.svg"
-import cssIcon from "./images/css.svg"
-import reactIcon from "./images/react.svg"
 import jsIcon from "./images/javascript.svg"
-import designIcon from "./images/design.svg"
 import codeIcon from "./images/code.svg"
 import cs from "./images/cs.svg"
 import python from "./images/python.svg"
+import docker from "./images/docker.svg"
+import netcore from "./images/netcore.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -40,17 +38,17 @@ export default {
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "SOFTWARE DEVELOPER AT DOSETECH CO.", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Backend Developer.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://www.dosetech.co",
     },
     {
-      title: "Project Two", //Project Title - Add Your Project Title Here
+      title: "ADEV SOLUTION PLUS CO., LTD.", //Project Title - Add Your Project Title Here
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
@@ -60,7 +58,7 @@ export default {
       url: "http://chetanverma.com/",
     },
     {
-      title: "Project Three", //Project Title - Add Your Project Title Here
+      title: "THAI-AMADEUS SOUTHEAST ASIA CO.,LTD.", //Project Title - Add Your Project Title Here
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
@@ -70,7 +68,7 @@ export default {
       url: "http://chetanverma.com/",
     },
     {
-      title: "Project Four", //Project Title - Add Your Project Title Here
+      title: "THAI-AMADEUS SOUTHEAST ASIA CO.,LTD.", //Project Title - Add Your Project Title Here
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
@@ -80,24 +78,24 @@ export default {
       url: "http://chetanverma.com/",
     },
     {
-      title: "Project Five", //Project Title - Add Your Project Title Here
+      title: "Predict Handwritting", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Predict Handwritting using python.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://kmutnb-datamining-final.vercel.app",
     },
     {
-      title: "Project Six", //Project Title - Add Your Project Title Here
+      title: "Covid Thailand Stats", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Covid Thailand Stats Per Day", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://thititongumpun.github.io/th-covid-stats/",
     },
 
     /*
@@ -136,7 +134,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
     {
-      img: python,
+      img: docker,
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
@@ -146,12 +144,12 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
     {
-      img: reactIcon,
+      img: python,
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
     {
-      img: designIcon,
+      img: netcore,
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
@@ -173,22 +171,11 @@ export default {
 
   //   Contact Section --------------
 
-  contactSubHeading: "Let's create your next experience together",
+  contactSubHeading: "Mobile: 0972318867",
   social: [
     // Add Or Remove The Link Accordingly
     { img: githubIcon, url: "https://github.com/chetanverma16" },
-    {
-      img: codepenIcon,
-      url: "https://www.codepen.com/",
-    },
-    {
-      img: dribbbleIcon,
-      url: "https://dribbble.com/chetanverma",
-    },
-    {
-      img: instagramIcon,
-      url: "https://www.instagram.com/",
-    },
+    
   ],
 
   // End Contact Section ---------------

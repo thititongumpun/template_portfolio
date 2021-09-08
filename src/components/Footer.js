@@ -27,9 +27,9 @@ const Footer = () => {
             ))}
           </div>
           <span>
-            Made With <icon>❤</icon> by{" "}
-            <a href="https://www.chetanverma.com/">Chetan Verma</a>
+            &copy; {new Date().getFullYear()} Thiti Tongumpun {" "}
           </span>
+          
         </div>
       </div>
     </div>
