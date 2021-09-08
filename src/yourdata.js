@@ -8,10 +8,8 @@ import netcore from "./images/netcore.svg"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
-import codepenIcon from "./images/codepen.svg"
-import dribbbleIcon from "./images/dribbble.svg"
-import instagramIcon from "./images/instagram.svg"
-
+import facebookIcon from "./images/facebook.svg"
+import me from "./images/me.jpg"
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
@@ -22,13 +20,13 @@ export default {
     //Line 1 For Header
     "Software Developer",
     //Line 2 For Header
-    "products, brands,",
+    " ",
     //Line 3 For Header
-    "and experience",
+    " ",
   ],
   //   Header Paragraph
-  headerParagraph:
-    "My name is Thiti Tongumpun. Currently Study Master Degree IT Kmutnb.",
+  // headerParagraph:
+  //   "My name is Thiti Tongumpun. Currently Study Master Degree IT Kmutnb.",
 
   //Contact Email
   contactEmail: "thiti180536@gmail.com",
@@ -50,32 +48,25 @@ export default {
     {
       title: "ADEV SOLUTION PLUS CO., LTD.", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Built and deployed Docker containers into microservices UAT PRD Environments And\
+        NET Core code development for backend business logic",
+         // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://www.google.com/search?q=adev+solution+plus&sxsrf=AOaemvK3u-aMP6ig0zM5R2oI5_EVL2qrUQ%3A1631077467025&source=hp&ei=WkQ4YcnwO7vD5OUP1amXoAU&iflsig=ALs-wAMAAAAAYThSa0ihwnFoN5appeFFHHQaLHjrSJVj&oq=adev&gs_lcp=Cgdnd3Mtd2l6EAMYATIECCMQJzIECCMQJzIECCMQJzIKCAAQsQMQsQMQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIKCAAQsQMQgwEQCjIKCAAQsQMQgwEQCjIHCAAQsQMQCjoOCC4QgAQQsQMQxwEQowI6CAgAEIAEELEDOgUIABCABDoLCAAQgAQQsQMQgwE6BAgAEEM6EQguEIAEELEDEIMBEMcBEKMCOgoILhDHARCjAhBDOgcILhCxAxBDOgUILhCABFC1AliXBWDoEGgAcAB4AIABnQGIAeUDkgEDMC40mAEAoAEB&sclient=gws-wiz",
     },
     {
       title: "THAI-AMADEUS SOUTHEAST ASIA CO.,LTD.", //Project Title - Add Your Project Title Here
       para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
+        "Developing, maintain and troubleshooting \
+        Amadeus software programs use C#, JavaScript for applications in computer and accurate ", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
-    },
-    {
-      title: "THAI-AMADEUS SOUTHEAST ASIA CO.,LTD.", //Project Title - Add Your Project Title Here
-      para:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
-      //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
-      //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "https://www.thaiamadeus.com",
     },
     {
       title: "Predict Handwritting", //Project Title - Add Your Project Title Here
@@ -114,12 +105,11 @@ export default {
   // About Secton --------------
   aboutParaOne:
     "My name is Thiti Tongumpun. Currently Study Master Degree IT Kmutnb.",
-  aboutParaTwo:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-  aboutParaThree:
-    "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-  aboutImage:
-    "https://images.unsplash.com/photo-1519713958759-6254243c4a53?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
+  // aboutParaTwo:
+  //   "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  // aboutParaThree:
+  //   "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+  aboutImage: me,
 
   //   End About Section ---------------------
 
@@ -174,8 +164,8 @@ export default {
   contactSubHeading: "Mobile: 0972318867",
   social: [
     // Add Or Remove The Link Accordingly
-    { img: githubIcon, url: "https://github.com/chetanverma16" },
-    
+    { img: githubIcon, url: "https://github.com/thititongumpun" },
+    { img: facebookIcon, url: "https://www.facebook.com/nos.tongumpun" },
   ],
 
   // End Contact Section ---------------
