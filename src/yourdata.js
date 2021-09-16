@@ -10,6 +10,7 @@ import netcore from "./images/netcore.svg"
 import githubIcon from "./images/github.svg"
 import facebookIcon from "./images/facebook.svg"
 import me from "./images/me.jpg"
+import aws from "./images/aws.svg"
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
@@ -144,7 +145,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
     {
-      img: codeIcon,
+      img: aws,
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     },
