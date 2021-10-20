@@ -13,6 +13,7 @@ import me from "./images/me.jpg"
 import sql from "./images/sql.svg"
 import aws from "./images/aws.svg"
 import linux from './images/linux.svg';
+import google from './images/google.svg';
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
@@ -158,6 +159,11 @@ export default {
     },
     {
       img: linux,
+      para:
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+    },
+    {
+      img: google,
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
     }
