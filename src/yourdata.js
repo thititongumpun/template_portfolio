@@ -22,7 +22,7 @@ export default {
   name: "Not",
   headerTagline: [
     //Line 1 For Header
-    "Software Developer",
+    "Software Engineer",
     //Line 2 For Header
     " ",
     //Line 3 For Header
@@ -108,7 +108,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "My name is Thiti Tongumpun. Currently Study Master Degree IT Kmutnb.",
+    "My name is Thiti Tongumpun. Work at MFEC. Currently Study Master Degree IT Kmutnb.",
   // aboutParaTwo:
   //   "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
   // aboutParaThree:
