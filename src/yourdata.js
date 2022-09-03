@@ -108,7 +108,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "My name is Thiti Tongumpun. Work at MFEC. Currently Study Master Degree IT Kmutnb.",
+    "My name is Thiti Tongumpun. Work at MFEC as DevOps Engineer. Graduate Master Degree IT Kmutnb. Loving to Code.",
   // aboutParaTwo:
   //   "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
   // aboutParaThree:
