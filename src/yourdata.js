@@ -12,8 +12,10 @@ import facebookIcon from "./images/facebook.svg"
 import me from "./images/me.jpg"
 import sql from "./images/sql.svg"
 import aws from "./images/aws.svg"
-import linux from './images/linux.svg';
-import google from './images/google.svg';
+import linux from "./images/linux.svg"
+import google from "./images/google.svg"
+import book from "./images/book.png"
+import ts from "./images/ts.jpeg"
 export default {
   //(Please Do Not Remove The comma(,) after every variable)
   //Change The Website Template
@@ -41,8 +43,7 @@ export default {
   projects: [
     {
       title: "SOFTWARE DEVELOPER AT DOSETECH CO.", //Project Title - Add Your Project Title Here
-      para:
-        "Backend Developer.", // Add Your Service Type Here
+      para: "Backend Developer.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
@@ -54,12 +55,13 @@ export default {
       para:
         "Built and deployed Docker containers into microservices UAT PRD Environments And\
         NET Core code development for backend business logic",
-         // Add Your Service Type Here
+      // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
         "https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60",
       //Project URL - Add Your Project Url Here
-      url: "https://www.google.com/search?q=adev+solution+plus&sxsrf=AOaemvK3u-aMP6ig0zM5R2oI5_EVL2qrUQ%3A1631077467025&source=hp&ei=WkQ4YcnwO7vD5OUP1amXoAU&iflsig=ALs-wAMAAAAAYThSa0ihwnFoN5appeFFHHQaLHjrSJVj&oq=adev&gs_lcp=Cgdnd3Mtd2l6EAMYATIECCMQJzIECCMQJzIECCMQJzIKCAAQsQMQsQMQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIKCAAQsQMQgwEQCjIKCAAQsQMQgwEQCjIHCAAQsQMQCjoOCC4QgAQQsQMQxwEQowI6CAgAEIAEELEDOgUIABCABDoLCAAQgAQQsQMQgwE6BAgAEEM6EQguEIAEELEDEIMBEMcBEKMCOgoILhDHARCjAhBDOgcILhCxAxBDOgUILhCABFC1AliXBWDoEGgAcAB4AIABnQGIAeUDkgEDMC40mAEAoAEB&sclient=gws-wiz",
+      url:
+        "https://www.google.com/search?q=adev+solution+plus&sxsrf=AOaemvK3u-aMP6ig0zM5R2oI5_EVL2qrUQ%3A1631077467025&source=hp&ei=WkQ4YcnwO7vD5OUP1amXoAU&iflsig=ALs-wAMAAAAAYThSa0ihwnFoN5appeFFHHQaLHjrSJVj&oq=adev&gs_lcp=Cgdnd3Mtd2l6EAMYATIECCMQJzIECCMQJzIECCMQJzIKCAAQsQMQsQMQCjIHCAAQgAQQCjIHCAAQgAQQCjIHCAAQgAQQCjIKCAAQsQMQgwEQCjIKCAAQsQMQgwEQCjIHCAAQsQMQCjoOCC4QgAQQsQMQxwEQowI6CAgAEIAEELEDOgUIABCABDoLCAAQgAQQsQMQgwE6BAgAEEM6EQguEIAEELEDEIMBEMcBEKMCOgoILhDHARCjAhBDOgcILhCxAxBDOgUILhCABFC1AliXBWDoEGgAcAB4AIABnQGIAeUDkgEDMC40mAEAoAEB&sclient=gws-wiz",
     },
     {
       title: "THAI-AMADEUS SOUTHEAST ASIA CO.,LTD.", //Project Title - Add Your Project Title Here
@@ -73,24 +75,20 @@ export default {
       url: "https://www.thaiamadeus.com",
     },
     {
-      title: "Predict Handwritting", //Project Title - Add Your Project Title Here
-      para:
-        "Predict Handwritting using python.", // Add Your Service Type Here
+      title: "Booking System", //Project Title - Add Your Project Title Here
+      para: "Booking System for Internal used.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: book,
       //Project URL - Add Your Project Url Here
-      url: "https://kmutnb-datamining-final.vercel.app",
+      url: "https://taragon.website",
     },
     {
-      title: "Covid Thailand Stats", //Project Title - Add Your Project Title Here
-      para:
-        "Covid Thailand Stats Per Day", // Add Your Service Type Here
+      title: "Personnal Timesheet memo", //Project Title - Add Your Project Title Here
+      para: "Personnal Timesheet memo for memo timesheet.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
-      imageSrc:
-        "https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60",
+      imageSrc: ts,
       //Project URL - Add Your Project Url Here
-      url: "https://thititongumpun.github.io/th-covid-stats/",
+      url: "https://ts.thiti.live",
     },
 
     /*
@@ -108,7 +106,7 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "My name is Thiti Tongumpun. Work at MFEC as DevOps Engineer. Graduate Master Degree IT Kmutnb. Loving to Code.",
+    "My name is Thiti Tongumpun. Work at MFEC as Software Engineer.",
   // aboutParaTwo:
   //   "It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
   // aboutParaThree:
@@ -166,7 +164,7 @@ export default {
       img: google,
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
-    }
+    },
   ],
 
   // End Skills Section --------------------------

@@ -27,9 +27,9 @@ const Footer = () => {
             ))}
           </div>
           <span>
-            &copy; {new Date().getFullYear()} Thiti Tongumpun {" "}
+            {/* &copy; {new Date().getFullYear()} Thiti Tongumpun {" "} */}
+            &copy; 2022
           </span>
-          
         </div>
       </div>
     </div>
